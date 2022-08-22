@@ -287,13 +287,13 @@ tfoot tr td:last-child{
 .btn-no-img:active .icon-btn-no-img path {
 	stroke: #1c063e;
 }
-#icon-edit path {
+.icon-edit path {
 	transition: stroke .3s ease-in-out;
 }
-.btn-edit:hover #icon-edit path {
+.btn-edit:hover .icon-edit path {
 	stroke: #5701d8;
 }
-.btn-edit:active #icon-edit path {
+.btn-edit:active .icon-edit path {
 	stroke: #1c063e;
 }
 .icon-btn-del {
